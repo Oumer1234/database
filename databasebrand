@@ -1,0 +1,152 @@
+[
+    {
+        "ProductName": "Organic Bamboo Cutting Board",
+        "GraphicName": "cutting_board.jpg",
+        "CostPrice": 12.99,
+        "MSRP": 24.99,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 20,
+        "Description": "High-quality, eco-friendly bamboo cutting board perfect for all kitchen tasks.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Reusable Silicone Food Storage Bags",
+        "GraphicName": "storage_bags.jpg",
+        "CostPrice": 15.99,
+        "MSRP": 29.99,
+        "QtyOnHand": 300,
+        "QtyOnBackOrder": 25,
+        "Description": "Eco-friendly reusable silicone bags for food storage, perfect for reducing plastic waste.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Eco-Friendly Beeswax Wraps",
+        "GraphicName": "beeswax_wraps.jpg",
+        "CostPrice": 9.99,
+        "MSRP": 19.99,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 10,
+        "Description": "Sustainable beeswax wraps for keeping your food fresh without plastic.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Compostable Plant-Based Plates",
+        "GraphicName": "compostable_plates.jpg",
+        "CostPrice": 14.99,
+        "MSRP": 29.99,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 15,
+        "Description": "Biodegradable plant-based plates, perfect for eco-friendly parties and events.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Bamboo Toothbrush Set",
+        "GraphicName": "bamboo_toothbrush.jpg",
+        "CostPrice": 7.99,
+        "MSRP": 14.99,
+        "QtyOnHand": 250,
+        "QtyOnBackOrder": 20,
+        "Description": "Eco-friendly bamboo toothbrush set, reducing plastic waste in oral care.",
+        "Brand": "EcoWare"
+    },
+    {
+        "ProductName": "Wireless Bluetooth Headphones",
+        "GraphicName": "headphones.jpg",
+        "CostPrice": 39.99,
+        "MSRP": 79.99,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 15,
+        "Description": "Comfortable wireless Bluetooth headphones with superior sound quality.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Portable Solar Charger",
+        "GraphicName": "solar_charger.jpg",
+        "CostPrice": 25.99,
+        "MSRP": 49.99,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 30,
+        "Description": "Portable solar charger for all your electronic devices, ideal for outdoor activities.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Smart Home Security Camera",
+        "GraphicName": "security_camera.jpg",
+        "CostPrice": 55.99,
+        "MSRP": 109.99,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 10,
+        "Description": "Smart home security camera with motion detection and night vision.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Wireless Charging Pad",
+        "GraphicName": "charging_pad.jpg",
+        "CostPrice": 19.99,
+        "MSRP": 39.99,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 20,
+        "Description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Noise Cancelling Earbuds",
+        "GraphicName": "earbuds.jpg",
+        "CostPrice": 29.99,
+        "MSRP": 59.99,
+        "QtyOnHand": 180,
+        "QtyOnBackOrder": 25,
+        "Description": "Wireless noise cancelling earbuds with high-quality sound and long battery life.",
+        "Brand": "TechTrends"
+    },
+    {
+        "ProductName": "Ergonomic Office Chair",
+        "GraphicName": "office_chair.jpg",
+        "CostPrice": 120.00,
+        "MSRP": 250.00,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 10,
+        "Description": "Ergonomic office chair with lumbar support and adjustable height for ultimate comfort.",
+        "Brand": "ComfortLiving"
+    },
+    {
+        "ProductName": "Memory Foam Mattress",
+        "GraphicName": "mattress.jpg",
+        "CostPrice": 299.99,
+        "MSRP": 599.99,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 15,
+        "Description": "Comfortable memory foam mattress with cooling gel for a restful night's sleep.",
+        "Brand": "ComfortLiving"
+    },
+    {
+        "ProductName": "Adjustable Standing Desk",
+        "GraphicName": "standing_desk.jpg",
+        "CostPrice": 199.99,
+        "MSRP": 399.99,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 10,
+        "Description": "Adjustable standing desk for a healthier work environment.",
+        "Brand": "ComfortLiving"
+    },
+    {
+        "ProductName": "Luxury Recliner Chair",
+        "GraphicName": "recliner_chair.jpg",
+        "CostPrice": 250.00,
+        "MSRP": 500.00,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 5,
+        "Description": "Luxury recliner chair with massage function and heat therapy.",
+        "Brand": "ComfortLiving"
+    },
+    {
+        "ProductName": "Orthopedic Memory Foam Pillow",
+        "GraphicName": "pillow.jpg",
+        "CostPrice": 29.99,
+        "MSRP": 59.99,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 30,
+        "Description": "Orthopedic memory foam pillow for better neck and spine support.",
+        "Brand": "ComfortLiving"
+    }
+]
